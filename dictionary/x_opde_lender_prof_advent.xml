@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Advent" max_length="40" name="x_opde_lender_prof_advent" type="collection">
+        <element label="Lender" max_length="32" name="lender" reference="x_opde_lender_prof_lenders" type="reference"/>
+        <index name="index">
+            <element name="lender"/>
+        </index>
+    </element>
+</database>

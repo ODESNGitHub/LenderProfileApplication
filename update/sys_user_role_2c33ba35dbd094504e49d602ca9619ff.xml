@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_opde_lender_prof.advent_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <snbe>false</snbe>
+        <suffix>advent_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 16:57:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2c33ba35dbd094504e49d602ca9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_opde_lender_prof.advent_user</sys_name>
+        <sys_package display_value="Lender Profile" source="x_opde_lender_prof">977cab45db330810cafec44305961922</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Lender Profile">977cab45db330810cafec44305961922</sys_scope>
+        <sys_update_name>sys_user_role_2c33ba35dbd094504e49d602ca9619ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 16:57:36</sys_updated_on>
+    </sys_user_role>
+</record_update>

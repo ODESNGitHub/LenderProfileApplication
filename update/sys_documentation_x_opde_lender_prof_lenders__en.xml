@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Lenders" language="en" table="x_opde_lender_prof_lenders">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Lenders</label>
+            <language>en</language>
+            <name>x_opde_lender_prof_lenders</name>
+            <plural>Lenders</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-20 20:01:27</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c8b31a65dbdc14504e49d602ca961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Lenders</sys_name>
+            <sys_package display_value="Lender Profile" source="x_opde_lender_prof">977cab45db330810cafec44305961922</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Lender Profile">977cab45db330810cafec44305961922</sys_scope>
+            <sys_update_name>sys_documentation_x_opde_lender_prof_lenders__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-20 20:01:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
