@@ -3,7 +3,8 @@
         <element label="Alias" max_length="1000" name="alias" type="string"/>
         <element label="Contact List" max_length="4000" name="contact_list" reference="sys_user" type="glide_list"/>
         <element label="Escalation Contact" max_length="32" name="escalation_contact" reference="sys_user" type="reference"/>
-        <element label="Lender Name" max_length="100" name="lender_name" type="string"/>
+        <element label="General Information" max_length="8000" name="general_information" type="html"/>
+        <element display="true" label="Lender Name" max_length="100" name="lender_name" type="string"/>
         <element label="Phone Number" max_length="12" name="phone_number" type="string"/>
         <index name="index">
             <element name="escalation_contact"/>

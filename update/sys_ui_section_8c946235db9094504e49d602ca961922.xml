@@ -98,6 +98,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>general_information</element>
+            <position>7</position>
+            <sys_created_by>mgrabar</sys_created_by>
+            <sys_created_on>2020-04-22 15:31:38</sys_created_on>
+            <sys_id>8319ef42dbd85850cafec443059619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_opde_lender_prof_reynolds" sys_domain="global" view="Default view">8c946235db9094504e49d602ca961922</sys_ui_section>
+            <sys_updated_by>mgrabar</sys_updated_by>
+            <sys_updated_on>2020-04-22 15:31:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

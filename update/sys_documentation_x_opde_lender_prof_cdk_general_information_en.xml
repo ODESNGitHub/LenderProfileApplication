@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="dealer" label="Dealer" language="en" table="x_opde_lender_prof_cdk">
+    <sys_documentation element="general_information" label="General Information" language="en" table="x_opde_lender_prof_cdk">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>dealer</element>
+            <element>general_information</element>
             <help/>
             <hint/>
-            <label>Dealer</label>
+            <label>General Information</label>
             <language>en</language>
             <name>x_opde_lender_prof_cdk</name>
-            <plural>Dealers</plural>
+            <plural>General Informations</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 14:32:15</sys_created_on>
+            <sys_created_by>mgrabar</sys_created_by>
+            <sys_created_on>2020-04-22 15:22:10</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>a3e11efddb1094504e49d602ca9619b5</sys_id>
+            <sys_id>ecf6e74edb985850cafec44305961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Dealer</sys_name>
+            <sys_name>General Information</sys_name>
             <sys_package display_value="Lender Profile" source="x_opde_lender_prof">977cab45db330810cafec44305961922</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Lender Profile">977cab45db330810cafec44305961922</sys_scope>
-            <sys_update_name>sys_documentation_x_opde_lender_prof_cdk_dealer_en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 14:32:15</sys_updated_on>
+            <sys_update_name>sys_documentation_x_opde_lender_prof_cdk_general_information_en</sys_update_name>
+            <sys_updated_by>mgrabar</sys_updated_by>
+            <sys_updated_on>2020-04-22 15:22:10</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="CDK" max_length="40" name="x_opde_lender_prof_cdk" type="collection">
-        <element label="Dealer" max_length="40" name="dealer" type="boolean"/>
-        <element label="DMS" max_length="40" name="dms" type="boolean"/>
-        <element label="Field" max_length="100" name="field" type="string"/>
+        <element display="true" label="General Information" max_length="8000" name="general_information" type="html"/>
         <element label="Lender" max_length="32" name="lender" reference="x_opde_lender_prof_lenders" type="reference"/>
-        <element label="Menu" max_length="40" name="menu" type="boolean"/>
-        <element label="PEN" max_length="40" name="pen" type="boolean"/>
         <index name="index">
             <element name="lender"/>
         </index>

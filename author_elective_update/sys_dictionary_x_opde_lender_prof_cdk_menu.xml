@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="menu" table="x_opde_lender_prof_cdk">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Menu</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>menu</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">boolean</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_opde_lender_prof_cdk</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 15:33:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>41ef9631db9094504e49d602ca961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Menu</sys_name>
+        <sys_package display_value="Lender Profile" source="x_opde_lender_prof">977cab45db330810cafec44305961922</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Lender Profile">977cab45db330810cafec44305961922</sys_scope>
+        <sys_update_name>sys_dictionary_x_opde_lender_prof_cdk_menu</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 15:33:15</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Lender Profile">977cab45db330810cafec44305961922</application>
+        <file_path/>
+        <instance_id>3e09b4b5db7c1b08ff27d5b0cf9619d4</instance_id>
+        <instance_name>opendealerexchangedev</instance_name>
+        <name>sys_dictionary_x_opde_lender_prof_cdk_menu</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="menu" table="x_opde_lender_prof_cdk">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Menu</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>menu</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">boolean</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_opde_lender_prof_cdk</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 15:33:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>41ef9631db9094504e49d602ca961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Menu</sys_name>
+        <sys_package display_value="Lender Profile" source="x_opde_lender_prof">977cab45db330810cafec44305961922</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Lender Profile">977cab45db330810cafec44305961922</sys_scope>
+        <sys_update_name>sys_dictionary_x_opde_lender_prof_cdk_menu</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 15:33:15</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>]]></payload>
+        <payload_hash>-375365283</payload_hash>
+        <record_name>CDK.Menu</record_name>
+        <reverted_from/>
+        <source>c867723ddbd094504e49d602ca9619db</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>mgrabar</sys_created_by>
+        <sys_created_on>2020-04-21 17:15:54</sys_created_on>
+        <sys_id>a467b23ddbd094504e49d602ca9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1719dbd333c0000001</sys_recorded_at>
+        <sys_updated_by>mgrabar</sys_updated_by>
+        <sys_updated_on>2020-04-21 17:15:54</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>e067b23d42d0945050a7817f34cb29aa</update_guid>
+        <update_guid_history>e067b23d42d0945050a7817f34cb29aa:0,8e473ef9a9d09450d6321d2df9226497:1134397609,0def96314d9094509a4f6eb7a4d37367:598450933</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mgrabar</sys_created_by>
+        <sys_created_on>2020-04-22 15:10:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>0d58cbcbf5bc48ceac64dbad92dd1124</sys_id>
+        <sys_metadata>3b57723ddbd094504e49d602ca961980</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Menu</sys_name>
+        <sys_package display_value="Lender Profile" source="x_opde_lender_prof">977cab45db330810cafec44305961922</sys_package>
+        <sys_parent display_value="CDK">83751ee5dbdc14504e49d602ca9619b7</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Lender Profile">977cab45db330810cafec44305961922</sys_scope>
+        <sys_scope_delete display_value="">5b6395dc522147848b05f27f582f6610</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_opde_lender_prof_cdk_menu</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_opde_lender_prof_cdk_menu">a467b23ddbd094504e49d602ca9619aa</sys_update_version>
+        <sys_updated_by>mgrabar</sys_updated_by>
+        <sys_updated_on>2020-04-22 15:10:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
